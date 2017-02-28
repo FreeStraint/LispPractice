@@ -1,4 +1,3 @@
-;Collabrate with Mingjun Zhao
 
 ;Question 1
 ;This function will determine if the given element Y is contained in the list X
